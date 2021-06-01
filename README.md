@@ -38,7 +38,11 @@ This is a list of core app's functionalities:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Screen0.png)
+![Example screenshot](./Screen1.png)
+![Example screenshot](./Screen2.png)
+![Example screenshot](./Screen3.png)
+![Example screenshot](./Screen4.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
