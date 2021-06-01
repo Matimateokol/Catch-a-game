@@ -51,7 +51,7 @@ Project is: _in progress_
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+Here are areas I believe need improvement / could be improved. Also I added TODOs for future development.
 
 Room for improvement:
 - Create functional and deployed alpha version of app for Android platform.
