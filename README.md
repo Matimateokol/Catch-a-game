@@ -2,6 +2,7 @@
 > Catch-a-game is mobile application allowing you to find the latest game offers and to read other players opinions so you can avoid purchasing a game that is not satisfaying to your preferences.
 > Live demo [_here_](https://www.google.com/url?q=https%3A%2F%2Fmarvelapp.com%2Fprototype%2Fbfb427i&sa=D). <!-- If you have the project hosted somewhere, include the link here. -->
 > Website [_here_](https://sites.google.com/view/catch-a-game/strona-g%C5%82%C3%B3wna).
+> ![Example screenshot](./Logotype.png)
 
 ## Table of Contents
 * [General Info](#general-information)
